@@ -31,60 +31,29 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div id="info">
-    <div id="discord">
+    <div id="discord" style="width: 100%; display: flex; justify-content: center">
         <a href="https://discord.com/users/379355817700491264">
             <img src="https://lanyard.cnrad.dev/api/379355817700491264"/>
         </a>
     </div>
-    <div id="container">
-        <div id="profiles">
-            <a id="badge" href="https://discord.com/users/379355817700491264/">
+    <div id="container" style="margin-left: 8em; margin-right: 8em; display: flex; background-color:rgb(51, 51, 51);  border-radius: 0.5em;">
+        <div id="profiles" style="margin: 0.5em; width: 100%; display: flex; justify-content: center;">
+            <a id="badge" href="https://discord.com/users/379355817700491264/" style="margin: 0.2em; padding-top: 0.3em;">
                 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
             </a>
-            <a id="badge" href="https://open.spotify.com/user/qcxgsaqxgwkehqi2kzmfjn55c?si=0f10e3fa60284923"> 
+            <a id="badge" href="https://open.spotify.com/user/qcxgsaqxgwkehqi2kzmfjn55c?si=0f10e3fa60284923" style="margin: 0.2em; padding-top: 0.3em;"> 
                 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
             </a>
         </div>
-        <div id="github">
-            <a id="badge" href="https://github.com/The24Kings">
+        <div id="github" style="padding-top: 0.2em; margin: 0.5em; width: 100%; display: flex; justify-content: center">
+            <a id="badge" href="https://github.com/The24Kings" style="margin: 0.2em; padding-top: 0.3em;">
                 <img alt="Follow" src="https://img.shields.io/github/followers/The24Kings?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"/>
             </a>
-            <a id="badge" href="https://github.com/The24Kings">
+            <a id="badge" href="https://github.com/The24Kings" style="margin: 0.2em; padding-top: 0.3em;">
                 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=The24Kings"/>
             </a>
         </div>
     </div>
-    <style>
-        #container {
-            margin-left: 8em;
-            margin-right: 8em;
-            display: flex;
-            background-color:rgb(51, 51, 51);
-            border-radius: 0.5em;
-        }
-        #discord {
-            width: 100%;
-            display: flex;
-            justify-content: center
-        }
-        #profiles {
-            margin: 0.5em;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-        #badge {
-            margin: 0.2em;
-            padding-top: 0.3em;
-        }
-        #github {
-            padding-top: 0.2em;
-            margin: 0.5em;
-            width: 100%;
-            display: flex;
-            justify-content: center
-        }
-    </style>
 </div>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The24Kings&theme=dark&layout=compact&langs_count=6"> 
