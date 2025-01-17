@@ -1,22 +1,3 @@
-<p align="center">
-    <a href="https://discord.com/users/379355817700491264" style="text-decoration:none">
-        <img src="https://lanyard.cnrad.dev/api/379355817700491264" />
-    </a>
-    <br />
-		<a href="https://discord.com/users/379355817700491264/" style="text-decoration:none">
-			<img src="https://img.shields.io/badge/Profile-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-		</a>
-        <a href="https://open.spotify.com/user/qcxgsaqxgwkehqi2kzmfjn55c?si=0f10e3fa60284923" style="text-decoration:none">
-            <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-        </a>
-	<br>
-    <a href="https://github.com/The24Kings" style="text-decoration:none">
-        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/The24Kings?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"
-        />
-        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=The24Kings" />
-    </a>
-</p>
-
 ### 🤔 About me
 - 📝 I'm a self-taught developer from Washington
 
@@ -48,6 +29,24 @@
 ### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<p align="center">
+    <a href="https://discord.com/users/379355817700491264"">
+        <img src="https://lanyard.cnrad.dev/api/379355817700491264" />
+    </a>
+    <br />
+        <a href="https://discord.com/users/379355817700491264/">
+            <img src="https://img.shields.io/badge/Profile-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+        </a>
+        <a href="https://open.spotify.com/user/qcxgsaqxgwkehqi2kzmfjn55c?si=0f10e3fa60284923"> 
+            <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+        </a>
+    <br>
+    <a href="https://github.com/The24Kings"">
+        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/The24Kings?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"/>
+        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=The24Kings"/>
+    </a>
+</p>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The24Kings&theme=dark&layout=compact&langs_count=6"> 
 ### 📊 Stats
