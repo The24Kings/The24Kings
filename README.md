@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<div id="info">
+<div id="info" align="center">
     <div id="discord" style="width: 100%; display: flex; justify-content: center">
         <a href="https://discord.com/users/379355817700491264">
             <img src="https://lanyard.cnrad.dev/api/379355817700491264"/>
