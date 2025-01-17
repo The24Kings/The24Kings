@@ -54,38 +54,38 @@
             </a>
         </div>
     </div>
+    <style>
+        #container {
+            margin-left: 8em;
+            margin-right: 8em;
+            display: flex;
+            background-color:rgb(51, 51, 51);
+            border-radius: 0.5em;
+        }
+        #discord {
+            width: 100%;
+            display: flex;
+            justify-content: center
+        }
+        #profiles {
+            margin: 0.5em;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        #badge {
+            margin: 0.2em;
+            padding-top: 0.3em;
+        }
+        #github {
+            padding-top: 0.2em;
+            margin: 0.5em;
+            width: 100%;
+            display: flex;
+            justify-content: center
+        }
+    </style>
 </div>
-<style>
-    #container {
-        margin-left: 8em;
-        margin-right: 8em;
-        display: flex;
-        background-color:rgb(51, 51, 51);
-        border-radius: 0.5em;
-    }
-    #discord {
-        width: 100%;
-        display: flex;
-        justify-content: center
-    }
-    #profiles {
-        margin: 0.5em;
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
-    #badge {
-        margin: 0.2em;
-        padding-top: 0.3em;
-    }
-    #github {
-        padding-top: 0.2em;
-        margin: 0.5em;
-        width: 100%;
-        display: flex;
-        justify-content: center
-    }
-</style>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The24Kings&theme=dark&layout=compact&langs_count=6"> 
 ### 📊 Stats
