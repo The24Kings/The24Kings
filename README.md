@@ -1,7 +1,7 @@
 ### 🤔 About me
-- 📝 I'm a self-taught developer from Washington
+- 📝 I'm an Associate Software Engineer from Washington
 
-- 🎓 I'm currently studying Computer Science at Lewis-Clark State College
+- 🎓 Just graduated with my Bachelor's of Science in Computer Science!
 
 - ❤️ Currently learning JavaScript, Java, Python, C, C++, and Rust
 
