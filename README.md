@@ -1,11 +1,10 @@
 ### 🤔 About me
 - 📝 I'm an Associate Software Engineer from Washington
-
-- 🎓 Bachelor's of Science in Computer Science!
-
+- 🎓 Bachelor's of Science in Computer Science
 - ❤️ Currently working with OpenGL, C++, Rust, Python, and more!
-
 - 💬 You can contact me through Discord: `@24kings`
+
+> 👑 His name is `Viridian Thane` 
 
 ### 💻 Programming Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
